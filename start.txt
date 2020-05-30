@@ -1,1 +1,9 @@
 Test Git Quick Start demo
+
+Changing this file in branch NEWBRANCH
+adding line 4
+adding line 5
+adding line 6
+adding line 7
+adding line 8
+adding line 9
