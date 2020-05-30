@@ -9,3 +9,11 @@ new line 9
 new line 10
 new line 11
 new line 12
+
+Changing this file in branch NEWBRANCH
+adding line 4
+adding line 5
+adding line 6
+adding line 7
+adding line 8
+adding line 9
